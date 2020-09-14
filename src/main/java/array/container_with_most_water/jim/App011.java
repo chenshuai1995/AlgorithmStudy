@@ -1,4 +1,4 @@
-package com.algorithm.array.container_with_most_water.jim;
+package array.container_with_most_water.jim;
 
 /**
  * 11. 盛最多水的容器
