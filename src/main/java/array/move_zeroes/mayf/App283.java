@@ -1,4 +1,4 @@
-package com.algorithm.array.move_zeroes.mayf;
+package array.move_zeroes.mayf;
 
 import java.util.Arrays;
 
