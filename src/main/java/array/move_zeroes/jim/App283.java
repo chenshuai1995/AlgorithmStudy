@@ -1,4 +1,4 @@
-package array.move_zeroes;
+package array.move_zeroes.jim;
 
 import java.util.Arrays;
 
