@@ -3,16 +3,16 @@
 
 
 ## Array
-- [ ] https://leetcode-cn.com/problems/container-with-most-water/
-- [ ] https://leetcode-cn.com/problems/move-zeroes/
-- [ ] https://leetcode.com/problems/climbing-stairs/
-- [ ] https://leetcode-cn.com/problems/two-sum/
-- [ ] https://leetcode-cn.com/problems/3sum/
+- [x] https://leetcode-cn.com/problems/container-with-most-water/
+- [x] https://leetcode-cn.com/problems/move-zeroes/
+- [x] https://leetcode.com/problems/climbing-stairs/
+- [x] https://leetcode-cn.com/problems/two-sum/
+- [x] https://leetcode-cn.com/problems/3sum/
 
 ## Linked List
-- [ ] https://leetcode.com/problems/reverse-linked-list/
+- [x] https://leetcode.com/problems/reverse-linked-list/
 - [ ] https://leetcode.com/problems/swap-nodes-in-pairs
-- [ ] https://leetcode.com/problems/linked-list-cycle
+- [x] https://leetcode.com/problems/linked-list-cycle
 - [ ] https://leetcode.com/problems/linked-list-cycle-ii
 - [ ] https://leetcode.com/problems/reverse-nodes-in-k-group/
 
