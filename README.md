@@ -24,3 +24,14 @@
 - [ ] https://leetcode-cn.com/problems/two-sum/
 - [ ] https://leetcode-cn.com/problems/move-zeroes/
 - [ ] https://leetcode-cn.com/problems/plus-one/
+
+## Stack、Queue、Priority Queue、Dequeue
+
+- [ ] https://leetcode-cn.com/problems/valid-parentheses/
+- [ ] https://leetcode-cn.com/problems/min-stack/
+
+- [ ] https://leetcode-cn.com/problems/largest-rectangle-in-histogram
+- [ ] https://leetcode-cn.com/problems/sliding-window-maximum
+
+- [ ] https://leetcode.com/problems/design-circular-deque
+- [ ] https://leetcode.com/problems/trapping-rain-water/
